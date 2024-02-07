@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PenguinTiger
 - 👀 I’m interested in Robotics and Sports
-- 🌱 I’m currently learning robotics, and 
+- 🌱 I’m currently learning robotics and coding 
 - 💞️ I’m looking to collaborate on code and Vex IQ competitions
 - 📫 How to reach me tigerlion13569@gmail.com
 - 😄 Pronouns: he/him
